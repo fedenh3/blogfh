@@ -176,3 +176,13 @@ p{
         margin-bottom: 15px;
     }
   }
+
+/*edición consejos*/
+
+h5{
+    transition: all 1s;
+}
+h5:hover{
+    font-size: 3.2rem;
+    color:rgb(6, 16, 58)
+}
